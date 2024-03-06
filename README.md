@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on intrusting projects
 - 📫 How to reach me -- linkdin 
-- 😄 Pronouns: He
-- ⚡ Fun fact: I 
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am
 
 <!---
 HARSHARORA2812/HARSHARORA2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
